@@ -30,6 +30,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 #MY README Start here!
 
 create by commend 'ng new angular-offical-demo'
+# ------------------MY OWN README Divider-----------------
 
 # Observable vs Promise
 https://stackoverflow.com/questions/37364973/what-is-the-difference-between-promises-and-observables

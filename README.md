@@ -170,3 +170,5 @@ in src/app/heroes/hero-search/hero-search.component.html???
     *ngFor="let hero of heroes$ | async"
 
 Remember that the component class does not subscribe to the heroes$ observable. That's the job of the AsyncPipe in the template.
+
+# Deep into switchMap https://www.youtube.com/watch?v=rUZ9CjcaCEw

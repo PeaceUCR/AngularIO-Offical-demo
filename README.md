@@ -172,3 +172,4 @@ in src/app/heroes/hero-search/hero-search.component.html???
 Remember that the component class does not subscribe to the heroes$ observable. That's the job of the AsyncPipe in the template.
 
 # Deep into switchMap https://www.youtube.com/watch?v=rUZ9CjcaCEw
+we will test the switchMap with read api later on!
